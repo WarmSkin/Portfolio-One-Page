@@ -1047,7 +1047,7 @@ a:hover, a:active {
 
 /* Isotope */
 .gridder {
-    position: relative;
+    /* position: relative; */
     display: block;
 }
 
